@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Noah\\LOP_1_2_GeheleGetallen\\LOP_1_2_GeheleGetallen.csproj": {}
+    "D:\\SWD Blok 4\\SWD-BLOK-4\\Lesopdracht 1.2\\LOP_1_2_GeheleGetallen\\LOP_1_2_GeheleGetallen.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Noah\\LOP_1_2_GeheleGetallen\\LOP_1_2_GeheleGetallen.csproj": {
+    "D:\\SWD Blok 4\\SWD-BLOK-4\\Lesopdracht 1.2\\LOP_1_2_GeheleGetallen\\LOP_1_2_GeheleGetallen.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Noah\\LOP_1_2_GeheleGetallen\\LOP_1_2_GeheleGetallen.csproj",
+        "projectUniqueName": "D:\\SWD Blok 4\\SWD-BLOK-4\\Lesopdracht 1.2\\LOP_1_2_GeheleGetallen\\LOP_1_2_GeheleGetallen.csproj",
         "projectName": "LOP_1_2_GeheleGetallen",
-        "projectPath": "C:\\Users\\Noah\\LOP_1_2_GeheleGetallen\\LOP_1_2_GeheleGetallen.csproj",
+        "projectPath": "D:\\SWD Blok 4\\SWD-BLOK-4\\Lesopdracht 1.2\\LOP_1_2_GeheleGetallen\\LOP_1_2_GeheleGetallen.csproj",
         "packagesPath": "C:\\Users\\Noah\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Noah\\LOP_1_2_GeheleGetallen\\obj\\",
+        "outputPath": "D:\\SWD Blok 4\\SWD-BLOK-4\\Lesopdracht 1.2\\LOP_1_2_GeheleGetallen\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Noah\\AppData\\Roaming\\NuGet\\NuGet.Config"

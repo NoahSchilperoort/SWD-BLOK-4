@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v11.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v11.0": {
+      "LOP_1_2_GeheleGetallen/1.0.0": {
+        "runtime": {
+          "LOP_1_2_GeheleGetallen.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LOP_1_2_GeheleGetallen/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
