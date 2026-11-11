@@ -1,0 +1,17 @@
+d:\SWD Blok 4\SWD-BLOK-4\Lesopdracht_1_4\bin\Debug\net11.0\Lesopdracht_1_4.exe
+D:\SWD Blok 4\SWD-BLOK-4\Lesopdracht_1_4\bin\Debug\net11.0\Lesopdracht_1_4.deps.json
+D:\SWD Blok 4\SWD-BLOK-4\Lesopdracht_1_4\bin\Debug\net11.0\Lesopdracht_1_4.runtimeconfig.json
+D:\SWD Blok 4\SWD-BLOK-4\Lesopdracht_1_4\bin\Debug\net11.0\Lesopdracht_1_4.runtimeconfig.dev.json
+d:\SWD Blok 4\SWD-BLOK-4\Lesopdracht_1_4\bin\Debug\net11.0\Lesopdracht_1_4.dll
+d:\SWD Blok 4\SWD-BLOK-4\Lesopdracht_1_4\bin\Debug\net11.0\Lesopdracht_1_4.pdb
+d:\SWD Blok 4\SWD-BLOK-4\Lesopdracht_1_4\obj\Debug\net11.0\Lesopdracht_1_4.GeneratedMSBuildEditorConfig.editorconfig
+d:\SWD Blok 4\SWD-BLOK-4\Lesopdracht_1_4\obj\Debug\net11.0\Lesopdracht_1_4.AssemblyInfoInputs.cache
+d:\SWD Blok 4\SWD-BLOK-4\Lesopdracht_1_4\obj\Debug\net11.0\Lesopdracht_1_4.AssemblyInfo.cs
+d:\SWD Blok 4\SWD-BLOK-4\Lesopdracht_1_4\obj\Debug\net11.0\Lesopdracht_1_4.csproj.CoreCompileInputs.cache
+D:\SWD Blok 4\SWD-BLOK-4\Lesopdracht_1_4\obj\Debug\net11.0\Lesopdracht_1_4.sourcelink.json
+d:\SWD Blok 4\SWD-BLOK-4\Lesopdracht_1_4\obj\Debug\net11.0\Lesopdracht_1_4.dll
+d:\SWD Blok 4\SWD-BLOK-4\Lesopdracht_1_4\obj\Debug\net11.0\refint\Lesopdracht_1_4.dll
+d:\SWD Blok 4\SWD-BLOK-4\Lesopdracht_1_4\obj\Debug\net11.0\Lesopdracht_1_4.pdb
+D:\SWD Blok 4\SWD-BLOK-4\Lesopdracht_1_4\obj\Debug\net11.0\Lesopdracht_1_4.genruntimeconfig.cache
+D:\SWD Blok 4\SWD-BLOK-4\Lesopdracht_1_4\obj\Debug\net11.0\ref\Lesopdracht_1_4.dll
+D:\SWD Blok 4\SWD-BLOK-4\Lesopdracht_1_4\obj\Debug\net11.0\Lesopdra.4B98A602.Up2Date
