@@ -29,3 +29,23 @@ long minimumLong = long.MinValue;
 Console.WriteLine(minimumLong);
 long maximumLong = long.MaxValue;
 Console.WriteLine(maximumLong);
+
+int mathVar = 0;
+mathVar = mathVar + 10;
+Console.WriteLine(mathVar);
+mathVar = mathVar - 5;
+Console.WriteLine(mathVar);
+mathVar = mathVar * 2;
+Console.WriteLine(mathVar);
+mathVar = mathVar / 5;
+Console.WriteLine(mathVar);
+mathVar = mathVar % 3;
+Console.WriteLine(mathVar);
+
+int myCounter = 0;
+myCounter++;
+Console.WriteLine(myCounter);
+myCounter--;
+Console.WriteLine(myCounter);
+// De ++ operator telt 1 op bij de waarde van de variabele en de -- operator haalt 1 af van de waarde van de variabele.
+
