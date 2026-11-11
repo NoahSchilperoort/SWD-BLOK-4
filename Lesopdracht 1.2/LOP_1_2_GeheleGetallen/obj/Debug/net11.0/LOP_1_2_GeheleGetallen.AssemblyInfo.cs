@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LOP_1_2_GeheleGetallen")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+da2f18ef93cec64ededd4adf21d4c797ffe372de")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+01c17b831b3ceaa2886b9fee8a2b30d219d4eefa")]
 [assembly: System.Reflection.AssemblyProductAttribute("LOP_1_2_GeheleGetallen")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LOP_1_2_GeheleGetallen")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
