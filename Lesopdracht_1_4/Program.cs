@@ -19,3 +19,9 @@ city = city + " (Gelderland)";
 Console.WriteLine($"Stad: {city}");
 city = city + " 11/11/2026";
 Console.WriteLine($"Stad: {city}");
+// Symbolen, spaties en cijfers worden gewoon aan het einde van de string geplakt.
+
+decimal stringDecimal = 1.5m;
+string combinedVariable = city + stringDecimal;
+Console.WriteLine($"Stad: {combinedVariable}");
+// Bij het toevoegen van een string en een decimal wordt het direct aan elkaar geplakt.
